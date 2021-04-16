@@ -28,7 +28,7 @@ This is my latest project. It is a task manager app aimed at first time dads. It
 [PapaBear](https://expo.io/@quezzo/projects/papa_bear) ,[you can find the code for the app here:](https://github.com/Quez4223/PAPABEAR)
 
 
-[My linkedin profile is here](https://www.linkedin.com/in/marquez-leday/)
+[Linkedin](https://www.linkedin.com/in/marquez-leday/)
 
 
 
