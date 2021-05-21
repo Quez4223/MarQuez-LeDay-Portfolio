@@ -25,6 +25,9 @@ This was my third project and by far my favorite one to work on. It was my first
 This is my latest project. It is a task manager app aimed at first time dads. It was made with React-Native. Since this was made in React-Native this is a mobile app and you will need to download expo go on your device in order to view it. 
 [PapaBear](https://expo.io/@quezzo/projects/papa_bear) ,[you can find the code for the app here:](https://github.com/Quez4223/PAPABEAR)
 
+## Netflix Clone:
+My lastest project is an attempt to create a clone of Netflix using React.js and Firebase. [Netflix Clone](https://netflix-clone-85e53.web.app/) , [you can find the code for the app here:](https://github.com/Quez4223/Netflix-Clone)
+
 
 
 
